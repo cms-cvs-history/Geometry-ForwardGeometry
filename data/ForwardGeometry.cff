@@ -1,0 +1,6 @@
+#
+# This cfi should be included to build the Forward geometry model
+#
+
+es_module = ZdcHardcodeGeometryEP {}
+  
