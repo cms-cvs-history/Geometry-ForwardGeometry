@@ -1,6 +1,2 @@
-#
-# This cfi should be included to build the Forward geometry model
-#
-
-es_module = ZdcHardcodeGeometryEP {}
-es_module = CastorHardcodeGeometryEP {}  
+include "Geometry/ForwardGeometry/data/ZdcHardcodeGeometry.cfi"
+include "Geometry/ForwardGeometry/data/CastorHardcodeGeometry.cfi"
