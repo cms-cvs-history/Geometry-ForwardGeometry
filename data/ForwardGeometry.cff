@@ -1,2 +1,0 @@
-include "Geometry/ForwardGeometry/data/ZdcHardcodeGeometry.cfi"
-include "Geometry/ForwardGeometry/data/CastorHardcodeGeometry.cfi"
